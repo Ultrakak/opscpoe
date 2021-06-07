@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".Dashboard">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="welcome"
+        android:textSize="40dp">
+        
+    </TextView>
 </androidx.constraintlayout.widget.ConstraintLayout>
