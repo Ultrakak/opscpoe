@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Opscpoe">
-        <activity android:name=".Splashscreen"></activity>
+        <activity android:name=".Dashboard"></activity>
         <activity android:name=".Login" />
         <activity android:name=".Register">
             <intent-filter>
